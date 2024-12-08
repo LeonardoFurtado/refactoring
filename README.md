@@ -48,7 +48,7 @@
   - [ ] Data Class
   - [ ] Refused Bequest
   - [ ] Comments
-- [ ] Building Tests
+- [ ] 4 - Building Tests
   - [ ] The Value of Self-Testing Code
   - [ ] Sample Code to Test
   - [ ] A First Test
@@ -56,10 +56,10 @@
   - [ ] Modifying the Fixture
   - [ ] Probing the Boundaries
   - [ ] Much More Than This
-- [ ] Introducing the Catalog
+- [ ] 5 - Introducing the Catalog
   - [ ] Format of the Refactorings
   - [ ] The Choice of Refactorings
-- [ ] A First Set of Refactorings
+- [ ] 6 - A First Set of Refactorings
   - [ ] Extract Function
   - [ ] Inline Function
   - [ ] Extract Variable
@@ -71,7 +71,7 @@
   - [ ] Combine Functions into Class
   - [ ] Combine Functions into Transform
   - [ ] Split Phase
-- [ ] Encapsulation
+- [ ] 7 - Encapsulation
   - [ ] Encapsulate Record
   - [ ] Encapsulate Collection
   - [ ] Replace Primitive with Object
@@ -81,7 +81,7 @@
   - [ ] Hide Delegate
   - [ ] Remove Middle Man
   - [ ] Substitute Algorithm
-- [ ] Moving Features
+- [ ] 8 - Moving Features
   - [ ] Move Function
   - [ ] Move Field
   - [ ] Move Statements into Function
@@ -91,20 +91,20 @@
   - [ ] Split Loop
   - [ ] Replace Loop with Pipeline
   - [ ] Remove Dead Code
-- [ ] Organizing Data
+- [ ] 9 - Organizing Data
   - [ ] Split Variable
   - [ ] Rename Field
   - [ ] Replace Derived Variable with Query
   - [ ] Change Reference to Value
   - [ ] Change Value to Reference
-- [ ] Simplifying Conditional Logic
+- [ ] 10 - Simplifying Conditional Logic
   - [ ] Decompose Conditional
   - [ ] Consolidate Conditional Expression
   - [ ] Replace Nested Conditional with Guard Clauses
   - [ ] Replace Conditional with Polymorphism
   - [ ] Introduce Special Case
   - [ ] Introduce Assertion
-- [ ] Refactoring APIs
+- [ ] 11 - Refactoring APIs
   - [ ] Separate Query from Modifier
   - [ ] Parameterize Function
   - [ ] Remove Flag Argument
@@ -115,7 +115,7 @@
   - [ ] Replace Constructor with Factory Function
   - [ ] Replace Function with Command
   - [ ] Replace Command with Function
-- [ ] Dealing with Inheritance
+- [ ] 12 - Dealing with Inheritance
   - [ ] Pull Up Method
   - [ ] Pull Up Field
   - [ ] Pull Up Constructor Body
