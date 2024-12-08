@@ -1,6 +1,6 @@
 # Refactoring: Improving the Design of Existing Code
 
-- [ ] Refactoring: A First Example
+- [ ] 1 - Refactoring: A First Example
   - [x] The Starting Point
   - [x] Comments on the Starting Program
   - [x] The First Step in Refactoring
@@ -11,7 +11,7 @@
   - [ ] Reorganizing the Calculations by Type
   - [ ] Status: Creating the Data with the Polymorphic Calculator
   - [ ] Final Thoughts
-- [ ] Principles in Refactoring
+- [ ] 2 - Principles in Refactoring
   - [ ] Defining Refactoring
   - [ ] The Two Hats
   - [ ] Why Should We Refactor?
@@ -23,16 +23,110 @@
   - [ ] Where Did Refactoring Come From?
   - [ ] Automated Refactorings
   - [ ] Going Further
-- [ ] Bad Smells in Code
+- [ ] 3 - Bad Smells in Code
+  - [ ] Mysterious Name
+  - [ ] Duplicated Code
+  - [ ] Long Function
+  - [ ] Long Parameter List
+  - [ ] Global Data
+  - [ ] Mutable Data
+  - [ ] Divergent Change
+  - [ ] Shotgun Surgery
+  - [ ] Feature Envy
+  - [ ] Data Clumps
+  - [ ] Primitive Obsession
+  - [ ] Repeated Switches
+  - [ ] Loops
+  - [ ] Lazy Element
+  - [ ] Speculative Generality
+  - [ ] Temporary Field
+  - [ ] Message Chains
+  - [ ] Middle Man
+  - [ ] Insider Trading
+  - [ ] Large Class
+  - [ ] Alternative Classes with Different Interfaces
+  - [ ] Data Class
+  - [ ] Refused Bequest
+  - [ ] Comments
 - [ ] Building Tests
+  - [ ] The Value of Self-Testing Code
+  - [ ] Sample Code to Test
+  - [ ] A First Test
+  - [ ] Add Another Test
+  - [ ] Modifying the Fixture
+  - [ ] Probing the Boundaries
+  - [ ] Much More Than This
 - [ ] Introducing the Catalog
+  - [ ] Format of the Refactorings
+  - [ ] The Choice of Refactorings
 - [ ] A First Set of Refactorings
+  - [ ] Extract Function
+  - [ ] Inline Function
+  - [ ] Extract Variable
+  - [ ] Inline Variable
+  - [ ] Change Function Declaration
+  - [ ] Encapsulate Variable
+  - [ ] Rename Variable
+  - [ ] Introduce Parameter Object
+  - [ ] Combine Functions into Class
+  - [ ] Combine Functions into Transform
+  - [ ] Split Phase
 - [ ] Encapsulation
+  - [ ] Encapsulate Record
+  - [ ] Encapsulate Collection
+  - [ ] Replace Primitive with Object
+  - [ ] Replace Temp with Query
+  - [ ] Extract Class
+  - [ ] Inline Class
+  - [ ] Hide Delegate
+  - [ ] Remove Middle Man
+  - [ ] Substitute Algorithm
 - [ ] Moving Features
+  - [ ] Move Function
+  - [ ] Move Field
+  - [ ] Move Statements into Function
+  - [ ] Move Statements to Callers
+  - [ ] Replace Inline Code with Function Call
+  - [ ] Slide Statements
+  - [ ] Split Loop
+  - [ ] Replace Loop with Pipeline
+  - [ ] Remove Dead Code
 - [ ] Organizing Data
+  - [ ] Split Variable
+  - [ ] Rename Field
+  - [ ] Replace Derived Variable with Query
+  - [ ] Change Reference to Value
+  - [ ] Change Value to Reference
 - [ ] Simplifying Conditional Logic
+  - [ ] Decompose Conditional
+  - [ ] Consolidate Conditional Expression
+  - [ ] Replace Nested Conditional with Guard Clauses
+  - [ ] Replace Conditional with Polymorphism
+  - [ ] Introduce Special Case
+  - [ ] Introduce Assertion
 - [ ] Refactoring APIs
+  - [ ] Separate Query from Modifier
+  - [ ] Parameterize Function
+  - [ ] Remove Flag Argument
+  - [ ] Preserve Whole Object
+  - [ ] Replace Parameter with Query
+  - [ ] Replace Query with Parameter
+  - [ ] Remove Setting Method
+  - [ ] Replace Constructor with Factory Function
+  - [ ] Replace Function with Command
+  - [ ] Replace Command with Function
 - [ ] Dealing with Inheritance
+  - [ ] Pull Up Method
+  - [ ] Pull Up Field
+  - [ ] Pull Up Constructor Body
+  - [ ] Push Down Method
+  - [ ] Push Down Field
+  - [ ] Replace Type Code with Subclasses
+  - [ ] Remove Subclass
+  - [ ] Extract Superclass
+  - [ ] Collapse Hierarchy
+  - [ ] Replace Subclass with Delegate
+  - [ ] Replace Superclass with Delegate
 
 
 A book by Martin Fowler
